@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="right" top='80' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+<img align="right" top='80' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="460"/>
 <br/>
 
 - 🍒  About deep learning, include computer vision and speech.
