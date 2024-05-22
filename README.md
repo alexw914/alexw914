@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🍒  About Deep learning, include computer vision and speech.
+- 🍒  About deep learning, include computer vision and speech.
 - 📍  Based in Nanjing, China.
 - 📧  [lwu914@icloud.com](mailto:lwu914#icloud.com).
 <br/>
